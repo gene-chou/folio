@@ -1,1 +1,1 @@
-User-agent: * Disallow: Sitemap: https://gene-chou.github.io/folio/sitemap.xml
+User-agent: * Disallow: Sitemap: https://genechou.com/folio//sitemap.xml
